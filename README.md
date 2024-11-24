@@ -1,6 +1,4 @@
 # F-e-manas-Hotel
-A responsive hotel website showcasing property listings across multiple cities, featuring a gallery, contact page, and modern design using HTML, CSS, and JavaScript.
-# F-e-manas-Hotel
 
 A responsive and visually appealing hotel website showcasing property listings in cities like Delhi, Hyderabad, Kolkata, and Mumbai. The site includes a gallery, detailed property information, and a contact page for user inquiries.
 
