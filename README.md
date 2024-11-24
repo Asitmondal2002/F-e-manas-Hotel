@@ -20,4 +20,4 @@ A responsive and visually appealing hotel website showcasing property listings i
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/mondal0143/F-e-manas-Hotel.git
+   git clone https://github.com/Asitmondal2002/F-e-manas-Hotel.git
